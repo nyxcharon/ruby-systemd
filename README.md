@@ -13,8 +13,8 @@ gem install systemd-bindings
 
 
 Example Usage of library  
+---
 ```
-
 systemd = Systemd::SystemdManager::new
 
 #List all units
