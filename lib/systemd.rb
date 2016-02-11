@@ -1,2 +1,2 @@
-require 'systemd/systemd_manager'
-require 'systemd/unit/service_unit'
+require_relative 'systemd/systemd_manager'
+require_relative 'systemd/unit/service_unit'
