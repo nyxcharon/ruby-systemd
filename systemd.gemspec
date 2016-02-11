@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name        = 'systemd'
+  s.name        = 'systemd-bindings'
   s.version     = '0.0.1'
   s.date        = '2016-02-11'
   s.summary     = "Ruby bindings for systemd"
